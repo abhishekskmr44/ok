@@ -1,0 +1,17 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+  }
+  
+  label {
+    display: grid;
+  }
+  
+  .gifImg img {
+    height: 80px;
+    width: 76px;
+    float: right;
+    margin-right: 22px;
+    margin-bottom: 22px;
+    border: 1px solid rgb(67, 107, 32);
+  }
